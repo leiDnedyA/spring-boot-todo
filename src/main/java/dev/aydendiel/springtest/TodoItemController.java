@@ -1,3 +1,4 @@
+
 package dev.aydendiel.springtest;
 
 import org.springframework.web.bind.annotation.GetMapping;
